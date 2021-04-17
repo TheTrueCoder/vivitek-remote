@@ -1,0 +1,2 @@
+http://192.168.1.36/tgi/console.tgi?computer1
+http://192.168.1.36/tgi/console.tgi?component2054
